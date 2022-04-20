@@ -1,3 +1,3 @@
 package io.kotrade.core
 
-interface AccountService
+interface TradeService
